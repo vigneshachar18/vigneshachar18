@@ -5,8 +5,8 @@
 
 - 📫 How to reach me **vigneshachar433@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://twitter.com/vigneshachar433" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vigneshachar433" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/vignesh-achar-43b94831a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vignesh-achar-43b94831a" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/vignesh_achar10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vignesh_achar10" height="30" width="40" /></a>
